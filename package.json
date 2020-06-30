@@ -1,0 +1,25 @@
+{
+  "name": "slk-brz-covid-stat",
+  "version": "1.0.0",
+  "description": "Solikamsk-Berezniki COVID-19 statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxymoron/slk-brz-covid-stat.git"
+  },
+  "keywords": [
+    "covid",
+    "stats",
+    "perm",
+    "russia"
+  ],
+  "author": "Andrey Zubkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oxymoron/slk-brz-covid-stat/issues"
+  },
+  "homepage": "https://github.com/oxymoron/slk-brz-covid-stat#readme"
+}
