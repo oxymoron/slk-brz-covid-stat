@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/oxymoron/slk-brz-covid-stat#readme",
   "dependencies": {
-    "echarts": "^4.8.0"
+    "echarts": "^5.4.2"
   }
 }
